@@ -1,7 +1,7 @@
 # RESOURCES:
 First, confirm versions:  
-    * python3 --version
-    * pip --version
+ python3 --version
+ pip --version
 
 * BeautifulSoup - https://www.crummy.com/software/BeautifulSoup/#Download
 
