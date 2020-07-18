@@ -6,6 +6,7 @@ First, confirm versions:
 * BeautifulSoup - https://www.crummy.com/software/BeautifulSoup/#Download
 
 * BeautifulSoup Tutorial - https://www.youtube.com/watch?v=87Gx3U0BDlo
+https://github.com/vprusso/youtube_tutorials/tree/master/web_scraping_and_automation/beautiful_soup
   * pip install requests
   * pip install beautifulsoup4
   * pip install pandas
