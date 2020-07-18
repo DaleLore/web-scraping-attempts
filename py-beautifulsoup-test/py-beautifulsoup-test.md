@@ -1,5 +1,5 @@
 # RESOURCES:
-First, confirm versions:  n\ 
+First, confirm versions:  \n 
   python3 --version  n\ 
   pip --version
 
