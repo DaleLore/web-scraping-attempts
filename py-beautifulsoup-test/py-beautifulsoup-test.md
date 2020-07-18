@@ -1,6 +1,6 @@
 # RESOURCES:
-First, confirm versions:
-  python3 --version
+First, confirm versions:  n\ 
+  python3 --version  n\ 
   pip --version
 
 * BeautifulSoup - https://www.crummy.com/software/BeautifulSoup/#Download
@@ -11,10 +11,10 @@ https://github.com/vprusso/youtube_tutorials/tree/master/web_scraping_and_automa
   * pip install beautifulsoup4
   * pip install pandas
 
-Joél Collins (Flatiron)
+* Joél Collins (Flatiron)
 https://github.com/joelsewhere/Scraping/blob/master/wikipedia.py
 
-DataQuest: https://www.dataquest.io/blog/web-scraping-tutorial-python/
+* DataQuest: https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
 # ERRORS:
 ------------------------
