@@ -1,7 +1,7 @@
 # RESOURCES:
-First, confirm versions:  \n 
-  python3 --version  n\ 
-  pip --version
+First, confirm versions:  
+    * python3 --version
+    * pip --version
 
 * BeautifulSoup - https://www.crummy.com/software/BeautifulSoup/#Download
 
